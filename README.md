@@ -13,17 +13,13 @@ Before we start building the machine learning model, we will preprocess the data
 1. Loading and viewing the dataset.
 2. Inspecting the applications.
 3. Splitting the dataset into train and test sets.
-4. Handling the missing values (part i).
-5. Handling the missing values (part ii).
-6. Preprocessing the data (part i).
-7. Preprocessing the data (part ii).
-8. Preprocessing the data (part iii).
-9. Splitting the data into features and target.
-10. Preprocessing the data (part iv).
-11. Encoding non-numerical features (part i).
-12. Encoding non-numerical features (part ii).
-13. Splitting the data into train and test sets.
-14. Scaling the data.
-15. Building the model.
-16. Evaluating the model.
-17. Conclusion.
+4. Handling the missing values.
+5. Preprocessing the data.
+6. Splitting the data into features and target.
+7. Preprocessing the data.
+8. Encoding non-numerical features
+9. Splitting the data into train and test sets.
+10. Scaling the data.
+11. Building the model.
+12. Evaluating the model.
+13. Conclusion.
